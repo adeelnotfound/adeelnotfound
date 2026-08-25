@@ -34,10 +34,10 @@
 │  developer / builder                                             │
 │                                                                  │
 │  currently exploring                                             │
-│  ├─ modern TypeScript applications                              │
+│  ├─ modern TypeScript applications                               │
 │  ├─ AI / RAG systems                                             │
-│  ├─ clean frontend architecture                                 │
-│  └─ turning rough ideas into polished products                  │
+│  ├─ clean frontend architecture                                  │
+│  └─ turning rough ideas into polished products                   │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
