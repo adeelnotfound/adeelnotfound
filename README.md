@@ -1,205 +1,360 @@
+<!--
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║      █████  ██████  ███████ ███████ ██                                       ║
+║     ██   ██ ██   ██ ██      ██      ██                                       ║
+║     ███████ ██   ██ █████   █████   ██                                       ║
+║     ██   ██ ██   ██ ██      ██      ██                                       ║
+║     ██   ██ ██████  ███████ ███████ ███████                                  ║
+║                                                                              ║
+║     ┌─ 404 :: NOT_FOUND ───────────────────────────────────────────────┐     ║
+║     │  github.com/adeelnotfound                                        │     ║
+║     │  frontend / react · typescript · cs student · building in public │     ║
+║     └──────────────────────────────────────────────────────────────────┘     ║
+║                                                                              ║
+║  									       ║
+║      Full checklist lives in SETUP.md                                        ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ═══════════════════════════ ANIMATED HEADER ═══════════════════════════ -->
+
 <div align="center">
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FFF,100:FF2E97&height=230&section=header&text=ADEEL%20%2F%2F%20NOT_FOUND&fontSize=54&fontColor=00F0FF&fontAlignY=36&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=frontend%20%2F%20react%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56"
+  width="100%"
+  alt="Adeel — frontend / React developer, CS student"
+/>
+
+<!-- ── TYPING TERMINAL ── -->
+
 <a href="https://github.com/adeelnotfound">
-  <img src="./assets/aura.svg" alt="Adeel Shaikh — adeelnotfound" width="100%"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=64&lines=%3E+initializing+developer.exe+...;%3E+status%3A+ONLINE+%E2%80%A2+caffeine%3A+CRITICAL;%3E+shipping+react+%2B+typescript+projects;%3E+currently+studying+cs;%3E+error+404%3A+comfort+zone+not+found"
+    alt="typing animation"
+  />
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=9D7CFF&center=true&vCenter=true&width=720&lines=building+things+that+feel+better+than+they+need+to;TypeScript+%7C+React+%7C+AI+%7C+C%23;turning+ideas+into+interfaces+%26+systems;status%3A+shipping" alt="Typing intro"/>
+<!-- ── LIVE COUNTERS ── -->
 
-<br/>
-
-<a href="https://github.com/adeelnotfound?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-6-11111A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0F" />
-</a>
-<a href="https://github.com/adeelnotfound">
-  <img src="https://img.shields.io/badge/PROFILE-adeelnotfound-11111A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0F" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=adeelnotfound&label=PROFILE%20VIEWS&color=FF2E97&style=for-the-badge&labelColor=0D1117" alt="profile views" />
+<img src="https://img.shields.io/github/followers/adeelnotfound?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github&logoColor=00F0FF" alt="followers" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="status building" />
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABS-FF2E97?style=for-the-badge&labelColor=0D1117" alt="open to collabs" />
 
 <br/><br/>
 
-> **I build interfaces, intelligent systems, and useful little experiments.**
+<!-- ── SOCIAL RAIL ── -->
+
+<a href="https://github.com/adeelnotfound"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" /></a>
+<a href="www.linkedin.com/in/adeel-shaikh-730ba5423"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a>
+<a href="mailto:adeelshaikh912@email.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="Email" /></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:7B2FFF,100:00F0FF&height=3&section=header" width="100%" alt="" />
 
 </div>
 
----
+<!-- ═══════════════════════════════ WHOAMI ═══════════════════════════════ -->
 
-## `~/adeelnotfound`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="" /> `~/ whoami`
 
-```text
-┌─ identity ───────────────────────────────────────────────────────┐
-│                                                                  │
-│  Adeel Shaikh                                                    │
-│  developer / builder                                             │
-│                                                                  │
-│  currently exploring                                             │
-│  ├─ modern TypeScript applications                               │
-│  ├─ AI / RAG systems                                             │
-│  ├─ clean frontend architecture                                  │
-│  └─ turning rough ideas into polished products                   │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+```typescript
+const adeel = {
+  role      : "Frontend Developer  //  CS Student",
+  location  : "Pakistan  //  UTC+5",
+  focus     : ["react + typescript", "web UI", "clean component design"],
+  shipped   : ["Aromatic-Aura — recipe discovery app", "My-Calculator-Pro"],
+  learning  : ["system design", "backend fundamentals", "clean architecture"],
+  philosophy: "build in public, break things privately, ship anyway",
+
+  currentlyOpenTabs: 47,
+  stackOverflowDebt: "unpayable",
+} as const;
+
+// 404: comfort zone not found — still looking.
 ```
-
-I like software that is **useful, deliberate, and visually considered**.  
-My public work currently spans frontend applications, AI experiments, desktop tooling, and product-style projects.
-
----
-
-## `⚡ stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,python,cs,dotnet,git,github,vscode&perline=7" alt="Tech stack"/>
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  ▸  I build things for the web, then rebuild them for phones.        │
+│  ▸  I learn in public — the messy commits are part of the point.     │
+│  ▸  If it compiles on the first try, I get suspicious.               │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FFF,100:FF2E97&height=3&section=header" width="100%" alt="" />
 
 </div>
 
----
+<!-- ═══════════════════════════ TECH ARSENAL ═══════════════════════════ -->
 
-## `◈ selected work`
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="26" alt="" /> `~/ tech_arsenal`
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🍲 Aromatic Aura
+**`⟨ ⟩ LANGUAGES`**
 
-**Recipe discovery + meal management**
-
-A high-performance culinary application focused on discovery, favorites, and meal organization.
-
-**TypeScript**
-
-→ [View repository](https://github.com/adeelnotfound/Aromatic-Aura)
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp&theme=dark&perline=6" alt="languages" />
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🧠 Multilingual RAG Chatbot
+**`◈ FRONTEND`**
 
-**Retrieval × generation experiments**
-
-A multilingual RAG system comparing retrieval and generation approaches across multiple languages.
-
-**Jupyter / Python**
-
-→ [View repository](https://github.com/adeelnotfound/Multilingual-RAG-Chatbot)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,sass&theme=dark&perline=6" alt="frontend" />
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td align="center" colspan="2">
 
-### 🥗 Nutrideel
+**`⌘ TOOLING`**
 
-**Nutrition + calorie tracking**
-
-A product-style nutrition tracker with adaptive forecasting, macro management, and analytics.
-
-**TypeScript**
-
-→ [View repository](https://github.com/adeelnotfound/Nutrideel)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ My Calculator Pro
-
-**Responsive calculator UI**
-
-A clean calculator built around functional components and hooks, with basic and advanced operations.
-
-**TypeScript / React**
-
-→ [View repository](https://github.com/adeelnotfound/My-Calculator-Pro)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,npm,figma,bash&theme=dark&perline=10" alt="tooling" />
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>more experiments</b></summary>
-
-<br/>
-
-- [Energy Bill Calculator](https://github.com/adeelnotfound/Energy-Bill-Calculator) — C# WinForms application for appliance tracking and electricity estimation.
-- [Profile Card Assignment](https://github.com/adeelnotfound/Profile-card-assignment) — responsive profile-card implementation using Flexbox.
-
-</details>
-
----
-
-## `◌ the signal`
-
-<div align="center">
-
-<img src="./assets/aura.svg" alt="" width="0"/>
-
-### I care about the last 10%.
-
-The part where the functionality already works —  
-but the interaction, hierarchy, performance, and visual details still need attention.
-
-<br/>
-
-`BUILD` · `BREAK` · `LEARN` · `REBUILD`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:00F0FF,100:7B2FFF&height=3&section=header" width="100%" alt="" />
 
 </div>
 
----
+<!-- ═══════════════════════════ LIVE TELEMETRY ═══════════════════════════ -->
 
-## `⌁ contribution trail`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/adeelnotfound/adeelnotfound/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/adeelnotfound/adeelnotfound/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/adeelnotfound/adeelnotfound/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-</div>
-
----
-
-## `>_ currently`
-
-```console
-$ whoami
-adeelnotfound
-
-$ focus
-frontend + AI + product engineering
-
-$ philosophy
-make it work
-make it clear
-make it feel good
-
-$ next
-more shipping, less overthinking
-```
-
----
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26" alt="" /> `~/ live_telemetry`
 
 <div align="center">
 
-### `if it can be built, it can be improved.`
-
-<br/>
-
-<a href="https://github.com/adeelnotfound?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_REPOS-9D7CFF?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/adeelnotfound">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=adeelnotfound&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&ring_color=7B2FFF&rank_icon=github"
+    alt="GitHub stats"
+  />
+</a>
+<a href="https://github.com/adeelnotfound">
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=adeelnotfound&hide_border=true&border_radius=12&background=0D1117&stroke=7B2FFF&ring=00F0FF&fire=FF2E97&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E"
+    alt="contribution streak"
+  />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=adeelnotfound&color=9D7CFF&style=flat-square&label=profile+views" alt="Profile views"/>
+<a href="https://github.com/adeelnotfound">
+  <img
+    height="200em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelnotfound&layout=donut&langs_count=8&hide_border=true&border_radius=12&bg_color=0D1117&title_color=FF2E97&text_color=C9D1D9"
+    alt="top languages"
+  />
+</a>
+<img
+  height="200em"
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=adeelnotfound-wakatime&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=7B2FFF&text_color=C9D1D9&custom_title=Where%20The%20Hours%20Go"
+  alt="wakatime stats — optional, see SETUP.md"
+/>
+
+</div>
+
+<!-- ═══════════════════════════ TROPHY CASE ═══════════════════════════ -->
+
+<div align="center">
+
+### `◤ TROPHY CASE ◢`
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=adeelnotfound&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+    width="100%"
+    alt="trophies"
+  />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,50:FF2E97,100:00F0FF&height=3&section=header" width="100%" alt="" />
+
+</div>
+
+<!-- ═══════════════════════════ WAVEFORM ═══════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="26" alt="" /> `~/ contribution_waveform`
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adeelnotfound&custom_title=COMMIT%20FREQUENCY%20%2F%2F%20LAST%2031%20DAYS&bg_color=0D1117&color=00F0FF&title_color=FF2E97&line=FF2E97&point=00F0FF&area=true&area_color=7B2FFF&hide_border=true&radius=12"
+  width="100%"
+  alt="contribution activity graph"
+/>
+
+</div>
+
+<!-- ═══════════════════════════ 3D GLOBE ═══════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/Ll2fZP3ptrx3vHodgn/giphy.gif" width="26" alt="" /> `~/ contributions.3d`
+
+<div align="center">
+
+<!-- Rendered daily by .github/workflows/profile-3d.yml — blank until the first run. -->
+<img
+  src="https://raw.githubusercontent.com/adeelnotfound/adeelnotfound/main/profile-3d-contrib/profile-night-rainbow.svg"
+  width="100%"
+  alt="3D contribution calendar"
+/>
+
+</div>
+
+<!-- ═══════════════════════════ THE SNAKE ═══════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" alt="" /> `~/ watch_it_eat`
+
+<div align="center">
+
+<!-- Rendered every 12h by .github/workflows/snake.yml into the `output` branch. -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/adeelnotfound/adeelnotfound/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/adeelnotfound/adeelnotfound/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/adeelnotfound/adeelnotfound/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="snake eating my contribution graph"
+  />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF2E97,100:7B2FFF&height=3&section=header" width="100%" alt="" />
+
+</div>
+
+<!-- ═══════════════════════════ SHIPPED ═══════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="26" alt="" /> `~/ shipped`
+
+<div align="center">
+
+<a href="https://github.com/adeelnotfound/Aromatic-Aura">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=Aromatic-Aura&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
+    alt="Aromatic-Aura"
+  />
+</a>
+<a href="https://github.com/adeelnotfound/My-Calculator-Pro">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=My-Calculator-Pro&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
+    alt="My-Calculator-Pro"
+  />
+</a>
+
+<!--
+  Add a third/fourth card here as you ship more repos — same block,
+  swap `repo=` for the exact repo name (case + hyphens must match).
+-->
+
+</div>
+
+<br/>
+
+<details>
+<summary><b><code>▸ open build log</code></b> &nbsp;<i>(the story behind the repos)</i></summary>
+
+<br/>
+
+| # | project | stack | what it taught me |
+|:-:|:--|:--|:--|
+| `01` | **[Aromatic-Aura](https://github.com/adeelnotfound/Aromatic-Aura)** | React · TypeScript | building a real discovery + collection flow, react native components, front end design. |
+| `02` | **[My-Calculator-Pro](https://github.com/adeelnotfound/My-Calculator-Pro)** | React · TypeScript · Hooks | keeping UI state clean with functional components only |
+| `03` | **[Profile-card-assignment](https://github.com/adeelnotfound/Profile-card-assignment)** | TypeScript · Flexbox | layout fundamentals, done properly |
+
+
+</details>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:7B2FFF,100:00F0FF&height=3&section=header" width="100%" alt="" />
+
+</div>
+
+<!-- ═══════════════════════════ ROADMAP ═══════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/ZgqjPRHZKUdPUjLcXX/giphy.gif" width="26" alt="" /> `~/ loading_next`
+
+```bash
+$ cat ~/roadmap.txt
+```
+
+<div align="center">
+
+<table>
+<tr><td>
+
+```
+▰▰▰▰▰▰▰▱▱▱  70%   react / typescript . shipping real UI, still learning
+▰▰▰▱▱▱▱▱▱▱  30%   system design ...... reading + rebuilding
+▰▰▱▱▱▱▱▱▱▱  20%   backend ............ 
+▰▱▱▱▱▱▱▱▱▱  10%   whatever's next .... 
+```
+
+</td></tr>
+</table>
+
+</div>
+
+> **Learning out loud.** These bars move, and I'd rather show the honest number
+> than a fake one. If you're further along in any row — I'd love the pointers.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,50:00F0FF,100:FF2E97&height=3&section=header" width="100%" alt="" />
+
+</div>
+
+<!-- ═══════════════════════════ TRANSMISSION ═══════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="26" alt="" /> `~/ open_transmission`
+
+<div align="center">
+
+**`I say yes to:`** &nbsp; open source issues &nbsp;`·`&nbsp; frontend side quests &nbsp;`·`&nbsp; anything that teaches me something
+
+<br/>
+
+<a href="mailto:adeelshaikh912@email.com"><img src="https://img.shields.io/badge/SEND_TRANSMISSION-FF2E97?style=for-the-badge&logo=minutemailer&logoColor=0D1117" alt="email me" /></a>
+<a href="https://www.linkedin.com/in/adeel-shaikh-730ba5423/"><img src="https://img.shields.io/badge/CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="connect on linkedin" /></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
+
+</div>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7B2FFF,100:0D1117&height=170&section=footer&reversal=true&text=thanks%20for%20scrolling%20this%20far&fontSize=26&fontColor=00F0FF&fontAlignY=68&animation=twinkling&desc=%3C%2F%3E%20with%20too%20much%20coffee%20by%20adeelnotfound&descSize=14&descAlignY=88"
+  width="100%"
+  alt=""
+/>
+
+<sub>`connection closed by remote host`</sub>
 
 </div>
