@@ -291,8 +291,8 @@ $ cat ~/roadmap.txt
 
 <br/>
 
-<a href="mailto:adeelshaikh912@gmail.com"><img src="https://img.shields.io/badge/SEND_TRANSMISSION-FF2E97?style=for-the-badge&logo=minutemailer&logoColor=0D1117" alt="email me" /></a>
-<a href="https://www.linkedin.com/in/adeel-shaikh-730ba5423/"><img src="https://img.shields.io/badge/CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="connect on linkedin" /></a>
+<a href="mailto:adeelshaikh912@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-FF2E97?style=for-the-badge&logo=minutemailer&logoColor=0D1117" alt="email me" /></a>
+<a href="https://www.linkedin.com/in/adeel-shaikh-730ba5423/"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="connect on linkedin" /></a>
 
 <br/><br/>
 
