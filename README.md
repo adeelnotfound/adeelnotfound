@@ -12,9 +12,6 @@
 ║     │  frontend developer · react + typescript · cs student            │     ║
 ║     └──────────────────────────────────────────────────────────────────┘     ║
 ║                                                                              ║
-║  									                                                           ║
-║                                                                              ║
-║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -35,7 +32,7 @@
 
 <a href="https://github.com/adeelnotfound">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=64&lines=%3E+initializing+developer.exe+...;%3E+status%3A+ONLINE+%E2%80%A2+caffeine%3A+CRITICAL;%3E+shipping+react+%2B+typescript+projects;%3E+currently+studying+cs;%3E+error+404%3A+comfort+zone+not+found"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=64&lines=%3E+initializing+developer.exe+...;%3E+status%3A+ONLINE+%E2%80%A2+caffeine%3A+CRITICAL;%3E+shipping+react+%2B+typescript+projects;%3E+experimenting+with+multilingual+RAG;%3E+currently+studying+cs;%3E+error+404%3A+comfort+zone+not+found"
     alt="typing animation"
   />
 </a>
@@ -55,7 +52,7 @@
 
 <a href="https://github.com/adeelnotfound"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/adeel-shaikh-730ba5423/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a>
-<a href="mailto:adeelshaikh912@email.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="Email" /></a>
+<a href="mailto:adeelshaikh912@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="Email" /></a>
 
 <br/>
 
@@ -225,40 +222,16 @@ const adeel = {
 
 <div align="center">
 
-<a href="https://github.com/adeelnotfound/Nutrideel">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=Nutrideel&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
-    alt="Nutrideel"
-  />
-</a>
-<a href="https://github.com/adeelnotfound/Multilingual-RAG-Chatbot">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=Multilingual-RAG-Chatbot&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
-    alt="Multilingual-RAG-Chatbot"
-  />
-</a>
-<a href="https://github.com/adeelnotfound/Aromatic-Aura">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=Aromatic-Aura&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
-    alt="Aromatic-Aura"
-  />
-</a>
-<a href="https://github.com/adeelnotfound/Energy-Bill-Calculator">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=Energy-Bill-Calculator&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
-    alt="Energy-Bill-Calculator"
-  />
-</a>
-<a href="https://github.com/adeelnotfound/My-Calculator-Pro">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=My-Calculator-Pro&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
-    alt="My-Calculator-Pro"
-  />
-</a>
+<a href="https://github.com/adeelnotfound/Nutrideel"><img src="https://img.shields.io/badge/Nutrideel-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" alt="Nutrideel" /></a>
+<a href="https://github.com/adeelnotfound/Multilingual-RAG-Chatbot"><img src="https://img.shields.io/badge/Multilingual--RAG--Chatbot-0D1117?style=for-the-badge&logo=github&logoColor=FF2E97&labelColor=0D1117" alt="Multilingual-RAG-Chatbot" /></a>
+<a href="https://github.com/adeelnotfound/Aromatic-Aura"><img src="https://img.shields.io/badge/Aromatic--Aura-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" alt="Aromatic-Aura" /></a>
+<a href="https://github.com/adeelnotfound/Energy-Bill-Calculator"><img src="https://img.shields.io/badge/Energy--Bill--Calculator-0D1117?style=for-the-badge&logo=github&logoColor=FF2E97&labelColor=0D1117" alt="Energy-Bill-Calculator" /></a>
+<a href="https://github.com/adeelnotfound/My-Calculator-Pro"><img src="https://img.shields.io/badge/My--Calculator--Pro-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" alt="My-Calculator-Pro" /></a>
 
 <!--
-  Add more cards here as you ship more repos — same block,
-  swap `repo=` for the exact repo name (case + hyphens must match).
+  Add more badges here as you ship more repos — same block,
+  swap the badge text for the exact repo name (case + hyphens must match,
+  and double any hyphen in the repo name as -- for shields.io).
 -->
 
 </div>
@@ -328,11 +301,11 @@ $ cat ~/roadmap.txt
 
 <div align="center">
 
-**`I say yes to:`** &nbsp; open source issues &nbsp;`·`&nbsp; frontend side quests &nbsp;`·`&nbsp; anything that teaches me something
+**`I say yes to:`** &nbsp; open source issues &nbsp;`·`&nbsp; frontend side quests &nbsp;`·`&nbsp; AI/RAG experiments &nbsp;`·`&nbsp; anything that teaches me something
 
 <br/>
 
-<a href="mailto:adeelshaikh912@email.com"><img src="https://img.shields.io/badge/SEND_TRANSMISSION-FF2E97?style=for-the-badge&logo=minutemailer&logoColor=0D1117" alt="email me" /></a>
+<a href="mailto:adeelshaikh912@gmail.com"><img src="https://img.shields.io/badge/SEND_TRANSMISSION-FF2E97?style=for-the-badge&logo=minutemailer&logoColor=0D1117" alt="email me" /></a>
 <a href="https://www.linkedin.com/in/adeel-shaikh-730ba5423/"><img src="https://img.shields.io/badge/CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="connect on linkedin" /></a>
 
 <br/><br/>
