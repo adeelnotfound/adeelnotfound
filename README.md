@@ -20,7 +20,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F7,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=0D1117&fontAlignY=36&animation=fadeIn&stroke=0D1117&strokeWidth=1&desc=frontend%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F7,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=0D1117&fontAlignY=36&animation=fadeIn&stroke=0D1117&strokeWidth=1&desc=frontend%20developer%20%C2%B7%20CS%20Student%20%C2%B7%20Learning%20Out%20Loud&descSize=17&descAlignY=56" />
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=00F0FF&fontAlignY=36&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=frontend%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56"
     width="100%"
