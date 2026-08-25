@@ -9,7 +9,7 @@
 ║                                                                              ║
 ║     ┌─ 404 :: NOT_FOUND ───────────────────────────────────────────────┐     ║
 ║     │  github.com/adeelnotfound                                        │     ║
-║     │  frontend / react · typescript · cs student · building in public │     ║
+║     │  frontend developer · react + typescript · cs student            │     ║
 ║     └──────────────────────────────────────────────────────────────────┘     ║
 ║                                                                              ║
 ║  									                                                           ║
@@ -22,11 +22,14 @@
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=00F0FF&fontAlignY=36&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=fullstack%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56"
-  width="100%"
-  alt="Adeel Shaikh — Fullstack Developer, CS student"
-/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F7,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=0D1117&fontAlignY=36&animation=fadeIn&stroke=0D1117&strokeWidth=1&desc=frontend%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=00F0FF&fontAlignY=36&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=frontend%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56"
+    width="100%"
+    alt="Adeel Shaikh — Frontend Developer, CS student"
+  />
+</picture>
 
 <!-- ── TYPING TERMINAL ── -->
 
@@ -62,14 +65,14 @@
 
 <!-- ═══════════════════════════════ WHOAMI ═══════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="" /> `~/ whoami`
+## `~/ whoami`
 
 ```typescript
 const adeel = {
   role      : "Frontend Developer  //  CS Student",
   location  : "Pakistan  //  UTC+5",
   focus     : ["react + typescript", "web UI", "clean component design"],
-  shipped   : ["Aromatic-Aura — recipe discovery app", "My-Calculator-Pro"],
+  shipped   : ["Nutrideel — nutrition & macro tracker", "Multilingual-RAG-Chatbot", "Aromatic-Aura"],
   learning  : ["system design", "backend fundamentals", "clean architecture"],
   philosophy: "build in public, break things privately, ship anyway",
 
@@ -96,7 +99,7 @@ const adeel = {
 
 <!-- ═══════════════════════════ TECH ARSENAL ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="26" alt="" /> `~/ tech_arsenal`
+## `~/ tech_arsenal`
 
 <div align="center">
 
@@ -106,7 +109,7 @@ const adeel = {
 
 **`⟨ ⟩ LANGUAGES`**
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp&theme=dark&perline=6" alt="languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,cs,html,css,cpp&theme=dark&perline=7" alt="languages" />
 
 </td>
 <td align="center" width="50%">
@@ -128,13 +131,11 @@ const adeel = {
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:00F0FF,100:7B2FFF&height=3&section=header" width="100%" alt="" />
-
 </div>
 
 <!-- ═══════════════════════════ LIVE TELEMETRY ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26" alt="" /> `~/ live_telemetry`
+## `~/ live_telemetry`
 
 <div align="center">
 
@@ -162,17 +163,9 @@ const adeel = {
 
 </div>
 
-<!-- ═══════════════════════════ TROPHY CASE ═══════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,50:FF2E97,100:00F0FF&height=3&section=header" width="100%" alt="" />
-
-</div>
-
 <!-- ═══════════════════════════ WAVEFORM ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="26" alt="" /> `~/ contribution_waveform`
+## `~/ contribution_waveform`
 
 <div align="center">
 
@@ -186,7 +179,7 @@ const adeel = {
 
 <!-- ═══════════════════════════ 3D GLOBE ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/Ll2fZP3ptrx3vHodgn/giphy.gif" width="26" alt="" /> `~/ contributions.3d`
+## `~/ contributions.3d`
 
 <div align="center">
 
@@ -201,7 +194,7 @@ const adeel = {
 
 <!-- ═══════════════════════════ THE SNAKE ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" alt="" /> `~/ watch_it_eat`
+## `~/ watch_it_eat`
 
 <div align="center">
 
@@ -228,14 +221,32 @@ const adeel = {
 
 <!-- ═══════════════════════════ SHIPPED ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="26" alt="" /> `~/ shipped`
+## `~/ shipped`
 
 <div align="center">
 
+<a href="https://github.com/adeelnotfound/Nutrideel">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=Nutrideel&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
+    alt="Nutrideel"
+  />
+</a>
+<a href="https://github.com/adeelnotfound/Multilingual-RAG-Chatbot">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=Multilingual-RAG-Chatbot&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
+    alt="Multilingual-RAG-Chatbot"
+  />
+</a>
 <a href="https://github.com/adeelnotfound/Aromatic-Aura">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=Aromatic-Aura&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
     alt="Aromatic-Aura"
+  />
+</a>
+<a href="https://github.com/adeelnotfound/Energy-Bill-Calculator">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=Energy-Bill-Calculator&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
+    alt="Energy-Bill-Calculator"
   />
 </a>
 <a href="https://github.com/adeelnotfound/My-Calculator-Pro">
@@ -246,7 +257,7 @@ const adeel = {
 </a>
 
 <!--
-  Add a third/fourth card here as you ship more repos — same block,
+  Add more cards here as you ship more repos — same block,
   swap `repo=` for the exact repo name (case + hyphens must match).
 -->
 
@@ -261,9 +272,12 @@ const adeel = {
 
 | # | project | stack | what it taught me |
 |:-:|:--|:--|:--|
-| `01` | **[Aromatic-Aura](https://github.com/adeelnotfound/Aromatic-Aura)** | React · TypeScript | building a real discovery + collection flow, react native components, front end design. |
-| `02` | **[My-Calculator-Pro](https://github.com/adeelnotfound/My-Calculator-Pro)** | React · TypeScript · Hooks | keeping UI state clean with functional components only |
-| `03` | **[Profile-card-assignment](https://github.com/adeelnotfound/Profile-card-assignment)** | TypeScript · Flexbox | layout fundamentals, done properly |
+| `01` | **[Nutrideel](https://github.com/adeelnotfound/Nutrideel)** | TypeScript | smart nutrition/calorie tracker with adaptive metabolic forecasting and macro-level health analytics |
+| `02` | **[Multilingual-RAG-Chatbot](https://github.com/adeelnotfound/Multilingual-RAG-Chatbot)** | Python · Jupyter | building a RAG pipeline across 4 languages (EN/DE/ES/NL), comparing retrieval + generation models side by side |
+| `03` | **[Aromatic-Aura](https://github.com/adeelnotfound/Aromatic-Aura)** | React · TypeScript | building a real discovery + collection flow, react native components, front end design |
+| `04` | **[Energy-Bill-Calculator](https://github.com/adeelnotfound/Energy-Bill-Calculator)** | C# · WinForms | desktop app with auth, tiered slab-rate billing logic, and persisted history — outside the browser for once |
+| `05` | **[My-Calculator-Pro](https://github.com/adeelnotfound/My-Calculator-Pro)** | React · TypeScript · Hooks | keeping UI state clean with functional components only |
+| `06` | **[Profile-card-assignment](https://github.com/adeelnotfound/Profile-card-assignment)** | TypeScript · Flexbox | layout fundamentals, done properly |
 
 
 </details>
@@ -276,7 +290,7 @@ const adeel = {
 
 <!-- ═══════════════════════════ ROADMAP ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/ZgqjPRHZKUdPUjLcXX/giphy.gif" width="26" alt="" /> `~/ loading_next`
+## `~/ loading_next`
 
 ```bash
 $ cat ~/roadmap.txt
@@ -310,7 +324,7 @@ $ cat ~/roadmap.txt
 
 <!-- ═══════════════════════════ TRANSMISSION ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="26" alt="" /> `~/ open_transmission`
+## `~/ open_transmission`
 
 <div align="center">
 
