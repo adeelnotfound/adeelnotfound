@@ -12,8 +12,8 @@
 ║     │  frontend / react · typescript · cs student · building in public │     ║
 ║     └──────────────────────────────────────────────────────────────────┘     ║
 ║                                                                              ║
-║  									       ║
-║      Full checklist lives in SETUP.md                                        ║
+║  									                                                           ║
+║                                                                              ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
@@ -23,7 +23,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=00F0FF&fontAlignY=36&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=frontend%20%2F%20react%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=00F0FF&fontAlignY=36&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=fullstack%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56"
   width="100%"
   alt="Adeel Shaikh — Fullstack Developer, CS student"
 />
