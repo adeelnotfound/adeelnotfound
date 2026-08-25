@@ -27,9 +27,10 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
 
-          # ── achievements: closest self-hosted equivalent to the old trophy case ──
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          # ── achievements: disabled — this plugin scrapes GitHub's achievements
+          # page HTML, which changes periodically and breaks it ("Unexpected
+          # error"). Re-enable by flipping to `yes` if it starts working again.
+          plugin_achievements: no
 
           # theme to roughly match the neon/dark look of the rest of the profile
           config_timezone: Asia/Karachi
