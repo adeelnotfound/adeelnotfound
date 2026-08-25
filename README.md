@@ -337,6 +337,5 @@ $ cat ~/roadmap.txt
   alt=""
 />
 
-<sub>`connection closed by remote host`</sub>
 
 </div>
