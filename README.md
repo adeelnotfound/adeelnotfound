@@ -9,8 +9,11 @@
 ║                                                                              ║
 ║     ┌─ 404 :: NOT_FOUND ───────────────────────────────────────────────┐     ║
 ║     │  github.com/adeelnotfound                                        │     ║
-║     │  frontend developer · react + typescript · cs student            │     ║
+║     │  frontend / react · typescript · cs student · building in public │     ║
 ║     └──────────────────────────────────────────────────────────────────┘     ║
+║                                                                              ║
+║  									                                                           ║
+║                                                                              ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
@@ -19,20 +22,17 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F7,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=0D1117&fontAlignY=36&animation=fadeIn&stroke=0D1117&strokeWidth=1&desc=frontend%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56" />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=00F0FF&fontAlignY=36&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=frontend%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56"
-    width="100%"
-    alt="Adeel Shaikh — Frontend Developer, CS student"
-  />
-</picture>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=00F0FF&fontAlignY=36&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=fullstack%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56"
+  width="100%"
+  alt="Adeel Shaikh — Fullstack Developer, CS student"
+/>
 
 <!-- ── TYPING TERMINAL ── -->
 
 <a href="https://github.com/adeelnotfound">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=64&lines=%3E+initializing+developer.exe+...;%3E+status%3A+ONLINE+%E2%80%A2+caffeine%3A+CRITICAL;%3E+shipping+react+%2B+typescript+projects;%3E+experimenting+with+multilingual+RAG;%3E+currently+studying+cs;%3E+error+404%3A+comfort+zone+not+found"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=64&lines=%3E+initializing+developer.exe+...;%3E+status%3A+ONLINE+%E2%80%A2+caffeine%3A+CRITICAL;%3E+shipping+react+%2B+typescript+projects;%3E+currently+studying+cs;%3E+error+404%3A+comfort+zone+not+found"
     alt="typing animation"
   />
 </a>
@@ -52,7 +52,7 @@
 
 <a href="https://github.com/adeelnotfound"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/adeel-shaikh-730ba5423/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a>
-<a href="mailto:adeelshaikh912@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="Email" /></a>
+<a href="mailto:adeelshaikh912@email.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="Email" /></a>
 
 <br/>
 
@@ -62,14 +62,14 @@
 
 <!-- ═══════════════════════════════ WHOAMI ═══════════════════════════════ -->
 
-## `~/ whoami`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="" /> `~/ whoami`
 
 ```typescript
 const adeel = {
   role      : "Frontend Developer  //  CS Student",
   location  : "Pakistan  //  UTC+5",
   focus     : ["react + typescript", "web UI", "clean component design"],
-  shipped   : ["Nutrideel — nutrition & macro tracker", "Multilingual-RAG-Chatbot", "Aromatic-Aura"],
+  shipped   : ["Aromatic-Aura — recipe discovery app", "My-Calculator-Pro"],
   learning  : ["system design", "backend fundamentals", "clean architecture"],
   philosophy: "build in public, break things privately, ship anyway",
 
@@ -96,7 +96,7 @@ const adeel = {
 
 <!-- ═══════════════════════════ TECH ARSENAL ═══════════════════════════ -->
 
-## `~/ tech_arsenal`
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="26" alt="" /> `~/ tech_arsenal`
 
 <div align="center">
 
@@ -106,7 +106,7 @@ const adeel = {
 
 **`⟨ ⟩ LANGUAGES`**
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,cs,html,css,cpp&theme=dark&perline=7" alt="languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,cpp&theme=dark&perline=6" alt="languages" />
 
 </td>
 <td align="center" width="50%">
@@ -128,11 +128,13 @@ const adeel = {
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:00F0FF,100:7B2FFF&height=3&section=header" width="100%" alt="" />
+
 </div>
 
 <!-- ═══════════════════════════ LIVE TELEMETRY ═══════════════════════════ -->
 
-## `~/ live_telemetry`
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26" alt="" /> `~/ live_telemetry`
 
 <div align="center">
 
@@ -160,9 +162,17 @@ const adeel = {
 
 </div>
 
+<!-- ═══════════════════════════ TROPHY CASE ═══════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,50:FF2E97,100:00F0FF&height=3&section=header" width="100%" alt="" />
+
+</div>
+
 <!-- ═══════════════════════════ WAVEFORM ═══════════════════════════ -->
 
-## `~/ contribution_waveform`
+## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="26" alt="" /> `~/ contribution_waveform`
 
 <div align="center">
 
@@ -176,7 +186,7 @@ const adeel = {
 
 <!-- ═══════════════════════════ 3D GLOBE ═══════════════════════════ -->
 
-## `~/ contributions.3d`
+## <img src="https://media.giphy.com/media/Ll2fZP3ptrx3vHodgn/giphy.gif" width="26" alt="" /> `~/ contributions.3d`
 
 <div align="center">
 
@@ -191,7 +201,7 @@ const adeel = {
 
 <!-- ═══════════════════════════ THE SNAKE ═══════════════════════════ -->
 
-## `~/ watch_it_eat`
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" alt="" /> `~/ watch_it_eat`
 
 <div align="center">
 
@@ -218,20 +228,26 @@ const adeel = {
 
 <!-- ═══════════════════════════ SHIPPED ═══════════════════════════ -->
 
-## `~/ shipped`
+## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="26" alt="" /> `~/ shipped`
 
 <div align="center">
 
-<a href="https://github.com/adeelnotfound/Nutrideel"><img src="https://img.shields.io/badge/Nutrideel-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" alt="Nutrideel" /></a>
-<a href="https://github.com/adeelnotfound/Multilingual-RAG-Chatbot"><img src="https://img.shields.io/badge/Multilingual--RAG--Chatbot-0D1117?style=for-the-badge&logo=github&logoColor=FF2E97&labelColor=0D1117" alt="Multilingual-RAG-Chatbot" /></a>
-<a href="https://github.com/adeelnotfound/Aromatic-Aura"><img src="https://img.shields.io/badge/Aromatic--Aura-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" alt="Aromatic-Aura" /></a>
-<a href="https://github.com/adeelnotfound/Energy-Bill-Calculator"><img src="https://img.shields.io/badge/Energy--Bill--Calculator-0D1117?style=for-the-badge&logo=github&logoColor=FF2E97&labelColor=0D1117" alt="Energy-Bill-Calculator" /></a>
-<a href="https://github.com/adeelnotfound/My-Calculator-Pro"><img src="https://img.shields.io/badge/My--Calculator--Pro-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" alt="My-Calculator-Pro" /></a>
+<a href="https://github.com/adeelnotfound/Aromatic-Aura">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=Aromatic-Aura&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
+    alt="Aromatic-Aura"
+  />
+</a>
+<a href="https://github.com/adeelnotfound/My-Calculator-Pro">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=adeelnotfound&repo=My-Calculator-Pro&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9"
+    alt="My-Calculator-Pro"
+  />
+</a>
 
 <!--
-  Add more badges here as you ship more repos — same block,
-  swap the badge text for the exact repo name (case + hyphens must match,
-  and double any hyphen in the repo name as -- for shields.io).
+  Add a third/fourth card here as you ship more repos — same block,
+  swap `repo=` for the exact repo name (case + hyphens must match).
 -->
 
 </div>
@@ -245,12 +261,9 @@ const adeel = {
 
 | # | project | stack | what it taught me |
 |:-:|:--|:--|:--|
-| `01` | **[Nutrideel](https://github.com/adeelnotfound/Nutrideel)** | TypeScript | smart nutrition/calorie tracker with adaptive metabolic forecasting and macro-level health analytics |
-| `02` | **[Multilingual-RAG-Chatbot](https://github.com/adeelnotfound/Multilingual-RAG-Chatbot)** | Python · Jupyter | building a RAG pipeline across 4 languages (EN/DE/ES/NL), comparing retrieval + generation models side by side |
-| `03` | **[Aromatic-Aura](https://github.com/adeelnotfound/Aromatic-Aura)** | React · TypeScript | building a real discovery + collection flow, react native components, front end design |
-| `04` | **[Energy-Bill-Calculator](https://github.com/adeelnotfound/Energy-Bill-Calculator)** | C# · WinForms | desktop app with auth, tiered slab-rate billing logic, and persisted history — outside the browser for once |
-| `05` | **[My-Calculator-Pro](https://github.com/adeelnotfound/My-Calculator-Pro)** | React · TypeScript · Hooks | keeping UI state clean with functional components only |
-| `06` | **[Profile-card-assignment](https://github.com/adeelnotfound/Profile-card-assignment)** | TypeScript · Flexbox | layout fundamentals, done properly |
+| `01` | **[Aromatic-Aura](https://github.com/adeelnotfound/Aromatic-Aura)** | React · TypeScript | building a real discovery + collection flow, react native components, front end design. |
+| `02` | **[My-Calculator-Pro](https://github.com/adeelnotfound/My-Calculator-Pro)** | React · TypeScript · Hooks | keeping UI state clean with functional components only |
+| `03` | **[Profile-card-assignment](https://github.com/adeelnotfound/Profile-card-assignment)** | TypeScript · Flexbox | layout fundamentals, done properly |
 
 
 </details>
@@ -263,7 +276,7 @@ const adeel = {
 
 <!-- ═══════════════════════════ ROADMAP ═══════════════════════════ -->
 
-## `~/ loading_next`
+## <img src="https://media.giphy.com/media/ZgqjPRHZKUdPUjLcXX/giphy.gif" width="26" alt="" /> `~/ loading_next`
 
 ```bash
 $ cat ~/roadmap.txt
@@ -297,15 +310,15 @@ $ cat ~/roadmap.txt
 
 <!-- ═══════════════════════════ TRANSMISSION ═══════════════════════════ -->
 
-## `~/ open_transmission`
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="26" alt="" /> `~/ open_transmission`
 
 <div align="center">
 
-**`I say yes to:`** &nbsp; open source issues &nbsp;`·`&nbsp; frontend side quests &nbsp;`·`&nbsp; AI/RAG experiments &nbsp;`·`&nbsp; anything that teaches me something
+**`I say yes to:`** &nbsp; open source issues &nbsp;`·`&nbsp; frontend side quests &nbsp;`·`&nbsp; anything that teaches me something
 
 <br/>
 
-<a href="mailto:adeelshaikh912@gmail.com"><img src="https://img.shields.io/badge/SEND_TRANSMISSION-FF2E97?style=for-the-badge&logo=minutemailer&logoColor=0D1117" alt="email me" /></a>
+<a href="mailto:adeelshaikh912@email.com"><img src="https://img.shields.io/badge/SEND_TRANSMISSION-FF2E97?style=for-the-badge&logo=minutemailer&logoColor=0D1117" alt="email me" /></a>
 <a href="https://www.linkedin.com/in/adeel-shaikh-730ba5423/"><img src="https://img.shields.io/badge/CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="connect on linkedin" /></a>
 
 <br/><br/>
