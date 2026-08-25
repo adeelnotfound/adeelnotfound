@@ -160,20 +160,6 @@ const adeel = {
 
 </div>
 
-<!-- ═══════════════════════════ WAVEFORM ═══════════════════════════ -->
-
-## `~/ contribution_waveform`
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=adeelnotfound&custom_title=COMMIT%20FREQUENCY%20%2F%2F%20LAST%2031%20DAYS&bg_color=0D1117&color=00F0FF&title_color=FF2E97&line=FF2E97&point=00F0FF&area=true&area_color=7B2FFF&hide_border=true&radius=12"
-  width="100%"
-  alt="contribution activity graph"
-/>
-
-</div>
-
 <!-- ═══════════════════════════ 3D GLOBE ═══════════════════════════ -->
 
 ## `~/ contributions.3d`
