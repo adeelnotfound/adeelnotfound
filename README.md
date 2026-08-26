@@ -73,7 +73,7 @@ const adeel = {
   learning  : ["system design", "backend fundamentals", "clean architecture"],
   philosophy: "build in public, break things privately, ship anyway",
 
-  currentlyOpenTabs: 47,
+  currentlyOpenTabs: 67,
   stackOverflowDebt: "unpayable",
 } as const;
 
