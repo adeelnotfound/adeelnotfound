@@ -69,7 +69,7 @@ const adeel = {
   role      : "Frontend Developer  //  CS Student",
   location  : "Pakistan  //  UTC+5",
   focus     : ["react + typescript", "web UI", "clean component design"],
-  shipped   : ["Nutrideel — nutrition & macro tracker", "Multilingual-RAG-Chatbot", "Aromatic-Aura"],
+  shipped   : ["Nutrideel — nutrition & macro tracker", "Multilingual-RAG-Chatbot", "Aromatic-Aura", "Linux-Security-System"],
   learning  : ["system design", "backend fundamentals", "clean architecture"],
   philosophy: "build in public, break things privately, ship anyway",
 
@@ -212,6 +212,7 @@ const adeel = {
 <a href="https://github.com/adeelnotfound/Multilingual-RAG-Chatbot"><img src="https://img.shields.io/badge/Multilingual--RAG--Chatbot-0D1117?style=for-the-badge&logo=github&logoColor=FF2E97&labelColor=0D1117" alt="Multilingual-RAG-Chatbot" /></a>
 <a href="https://github.com/adeelnotfound/Aromatic-Aura"><img src="https://img.shields.io/badge/Aromatic--Aura-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" alt="Aromatic-Aura" /></a>
 <a href="https://github.com/adeelnotfound/Energy-Bill-Calculator"><img src="https://img.shields.io/badge/Energy--Bill--Calculator-0D1117?style=for-the-badge&logo=github&logoColor=FF2E97&labelColor=0D1117" alt="Energy-Bill-Calculator" /></a>
+<a href="https://github.com/adeelnotfound/linux-security-system"><img src="https://img.shields.io/badge/Linux--Security--System-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" alt="Linux-Security-System" /></a>
 <a href="https://github.com/adeelnotfound/My-Calculator-Pro"><img src="https://img.shields.io/badge/My--Calculator--Pro-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" alt="My-Calculator-Pro" /></a>
 
 <!--
@@ -235,8 +236,9 @@ const adeel = {
 | `02` | **[Multilingual-RAG-Chatbot](https://github.com/adeelnotfound/Multilingual-RAG-Chatbot)** | Python · Jupyter | building a RAG pipeline across 4 languages (EN/DE/ES/NL), comparing retrieval + generation models side by side |
 | `03` | **[Aromatic-Aura](https://github.com/adeelnotfound/Aromatic-Aura)** | React · TypeScript | building a real discovery + collection flow, react native components, front end design |
 | `04` | **[Energy-Bill-Calculator](https://github.com/adeelnotfound/Energy-Bill-Calculator)** | C# · WinForms | desktop app with auth, tiered slab-rate billing logic, and persisted history — outside the browser for once |
-| `05` | **[My-Calculator-Pro](https://github.com/adeelnotfound/My-Calculator-Pro)** | React · TypeScript · Hooks | keeping UI state clean with functional components only |
-| `06` | **[Profile-card-assignment](https://github.com/adeelnotfound/Profile-card-assignment)** | TypeScript · Flexbox | layout fundamentals, done properly |
+| `05` | **[Linux-Security-System](https://github.com/adeelnotfound/linux-security-system)** | Python · Tkinter · Cryptography | role-based auth dashboards, Fernet + PBKDF2 file encryption, and login audit logging — my first real dive into security fundamentals |
+| `06` | **[My-Calculator-Pro](https://github.com/adeelnotfound/My-Calculator-Pro)** | React · TypeScript · Hooks | keeping UI state clean with functional components only |
+| `07` | **[Profile-card-assignment](https://github.com/adeelnotfound/Profile-card-assignment)** | TypeScript · Flexbox | layout fundamentals, done properly |
 
 
 </details>
