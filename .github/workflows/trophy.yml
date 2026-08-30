@@ -32,11 +32,12 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: adeelnotfound
-          output_path: assets/trophy.svg
+          file: assets/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          # This action's generator also accepts theme/column/margin flags —
-          # check its README under "Usage" if you want to match the neon
-          # palette more closely than the default theme.
+          theme: algolia
+          no-background: true
+          no-frame: true
+          max-cols: 7
 
       - name: Commit generated trophy SVG
         run: |
