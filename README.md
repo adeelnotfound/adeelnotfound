@@ -9,7 +9,7 @@
 ║                                                                              ║
 ║     ┌─ 404 :: NOT_FOUND ───────────────────────────────────────────────┐     ║
 ║     │  github.com/adeelnotfound                                        │     ║
-║     │  frontend developer · react + typescript · cs student            │     ║
+║     │  software developer · react + typescript · cs student            │     ║
 ║     └──────────────────────────────────────────────────────────────────┘     ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -20,11 +20,11 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F7,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=0D1117&fontAlignY=36&animation=fadeIn&stroke=0D1117&strokeWidth=1&desc=frontend%20developer%20%C2%B7%20CS%20Student%20%C2%B7%20Learning%20Out%20Loud&descSize=17&descAlignY=56" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F7,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=0D1117&fontAlignY=36&animation=fadeIn&stroke=0D1117&strokeWidth=1&desc=software%20developer%20%C2%B7%20CS%20Student%20%C2%B7%20Learning%20Out%20Loud&descSize=17&descAlignY=56" />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=00F0FF&fontAlignY=36&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=frontend%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=00F0FF&fontAlignY=36&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=software%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56"
     width="100%"
-    alt="Adeel Shaikh — Frontend Developer, CS student"
+    alt="Adeel Shaikh — Software Developer, CS student"
   />
 </picture>
 
@@ -135,9 +135,9 @@ const adeel = {
 </td>
 <td align="center" width="50%">
 
-**`◈ FRONTEND`**
+**`◈ `**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,sass&theme=dark&perline=6" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,sass&theme=dark&perline=6" alt="" />
 
 </td>
 </tr>
@@ -346,7 +346,7 @@ $ cat ~/roadmap.txt
 
 <div align="center">
 
-**`I say yes to:`** &nbsp; open source issues &nbsp;`·`&nbsp; frontend side quests &nbsp;`·`&nbsp; AI/RAG experiments &nbsp;`·`&nbsp; anything that teaches me something
+**`I say yes to:`** &nbsp; open source issues &nbsp;`·`&nbsp;  side quests &nbsp;`·`&nbsp; AI/RAG experiments &nbsp;`·`&nbsp; anything that teaches me something
 
 <br/>
 
