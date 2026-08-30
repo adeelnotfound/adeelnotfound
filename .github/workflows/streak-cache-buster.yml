@@ -1,0 +1,31 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  Streak Cache Buster  →  keeps ~/ live_telemetry actually live
+#  GitHub proxies README <img> URLs through Camo (camo.githubusercontent.com)
+#  and caches the first response for a long time — so the streak-stats.demolab.com
+#  widget was frozen at whatever it looked like the day it was first embedded,
+#  even though the service itself renders fresh data on every direct hit.
+#  This workflow appends a rotating cache-busting query param to the streak
+#  image URL in README.md on a schedule, forcing Camo to treat it as a new
+#  image and refetch current data.
+#  Destination in repo: .github/workflows/streak-cache-buster.yml
+# ─────────────────────────────────────────────────────────────────────────────
+name: Bust Streak Stats Cache
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+
+jobs:
+  bust-cache:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update streak stats cache buster
+        uses: DenverCoder1/github-readme-streak-stats-cache-buster@v1
+        with:
+          readme_path: README.md
