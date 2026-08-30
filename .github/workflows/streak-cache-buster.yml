@@ -4,9 +4,10 @@
 #  and caches the first response for a long time — so the streak-stats.demolab.com
 #  widget was frozen at whatever it looked like the day it was first embedded,
 #  even though the service itself renders fresh data on every direct hit.
-#  This workflow appends a rotating cache-busting query param to the streak
-#  image URL in README.md on a schedule, forcing Camo to treat it as a new
-#  image and refetch current data.
+#  This workflow rewrites the &cache= query param on the streak image URL in
+#  README.md on a schedule, forcing Camo to treat it as a new image and refetch
+#  current data. No third-party action — just sed + git, so nothing here can
+#  go stale/disappear the way an external action can.
 #  Destination in repo: .github/workflows/streak-cache-buster.yml
 # ─────────────────────────────────────────────────────────────────────────────
 name: Bust Streak Stats Cache
@@ -25,7 +26,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update streak stats cache buster
-        uses: DenverCoder1/github-readme-streak-stats-cache-buster@v1
-        with:
-          readme_path: README.md
+      - name: Bust streak-stats cache in README
+        run: |
+          TS=$(date +%s)
+          # Add a &cache=<timestamp> param to the streak-stats URL, replacing
+          # any previous &cache=... value if one is already there.
+          if grep -q 'streak-stats.demolab.com[^"]*&cache=' README.md; then
+            sed -i -E "s/(streak-stats\.demolab\.com[^\"]*&cache=)[0-9]+/\1${TS}/" README.md
+          else
+            sed -i -E "s|(streak-stats\.demolab\.com[^\"]*)\"|\1\&cache=${TS}\"|" README.md
+          fi
+
+      - name: Commit updated README
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: bust streak stats cache" || exit 0
+          git push
