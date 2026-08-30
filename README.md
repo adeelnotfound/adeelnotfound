@@ -53,6 +53,7 @@
 <a href="https://github.com/adeelnotfound"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/adeel-shaikh-730ba5423/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a>
 <a href="mailto:adeelshaikh912@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="Email" /></a>
+<a href="https://adeel-profile.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=7B2FFF" alt="Portfolio" /></a>
 
 <br/>
 
@@ -352,6 +353,8 @@ $ cat ~/roadmap.txt
 
 <a href="mailto:adeelshaikh912@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-FF2E97?style=for-the-badge&logo=minutemailer&logoColor=0D1117" alt="email me" /></a>
 <a href="https://www.linkedin.com/in/adeel-shaikh-730ba5423/"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="connect on linkedin" /></a>
+<a href="https://github.com/adeelnotfound"><img src="https://img.shields.io/badge/GITHUB-7B2FFF?style=for-the-badge&logo=github&logoColor=0D1117" alt="visit github" /></a>
+<a href="https://adeel-profile.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="view portfolio" /></a>
 
 <br/><br/>
 
