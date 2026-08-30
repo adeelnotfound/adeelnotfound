@@ -9,9 +9,7 @@
 #  as the approach already used for metrics.svg and the snake animation.
 #  Destination in repo: .github/workflows/trophy.yml
 # ─────────────────────────────────────────────────────────────────────────────
-
 name: Generate Trophy Case
-
 on:
   schedule:
     - cron: "0 5 * * *"   # once a day
@@ -19,7 +17,6 @@ on:
   push:
     branches:
       - main
-
 jobs:
   trophy:
     runs-on: ubuntu-latest
@@ -27,20 +24,21 @@ jobs:
       contents: write
       packages: read
       id-token: write
-
     steps:
       - uses: actions/checkout@v4
+
+      - name: Ensure assets directory exists
+        run: mkdir -p assets
 
       - name: Generate trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: adeelnotfound
-          output_path: assets/trophy.svg
+          file: assets/trophy.svg
           token: ${{ secrets.TROPHY_TOKEN }}
           # This action's generator also accepts theme/column/margin flags —
           # check its README under "Usage" if you want to match the neon
           # palette more closely than the default theme.
-
       - name: Commit generated trophy SVG
         run: |
           git config user.name  "github-actions[bot]"
