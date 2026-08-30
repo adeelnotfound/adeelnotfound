@@ -60,7 +60,29 @@
 
 </div>
 
+<!-- ═══════════════════════════ QUICK NAV ═══════════════════════════ -->
+
+<div align="center">
+
+<sub>
+
+**[`whoami`](#whoami)** &nbsp;·&nbsp;
+**[`tech_arsenal`](#tech)** &nbsp;·&nbsp;
+**[`trophy_case`](#trophies)** &nbsp;·&nbsp;
+**[`live_telemetry`](#telemetry)** &nbsp;·&nbsp;
+**[`contributions.3d`](#contrib3d)** &nbsp;·&nbsp;
+**[`watch_it_eat`](#snake)** &nbsp;·&nbsp;
+**[`shipped`](#shipped)** &nbsp;·&nbsp;
+**[`loading_next`](#roadmap)** &nbsp;·&nbsp;
+**[`open_transmission`](#contact)**
+
+</sub>
+
+</div>
+
 <!-- ═══════════════════════════════ WHOAMI ═══════════════════════════════ -->
+
+<a id="whoami"></a>
 
 ## `~/ whoami`
 
@@ -96,6 +118,8 @@ const adeel = {
 
 <!-- ═══════════════════════════ TECH ARSENAL ═══════════════════════════ -->
 
+<a id="tech"></a>
+
 ## `~/ tech_arsenal`
 
 <div align="center">
@@ -130,7 +154,30 @@ const adeel = {
 
 </div>
 
+<!-- ═══════════════════════════ TROPHY CASE ═══════════════════════════ -->
+
+<a id="trophies"></a>
+
+## `~/ trophy_case`
+
+<div align="center">
+
+<!--
+  Live/dynamic — recalculated on every load from current stats (stars, commits,
+  followers, PRs, repos). Not tied to GitHub's own "Achievements" badges (that
+  scraper is disabled in metrics.yml). Trophies render dim/locked at low stats
+  and light up automatically as activity grows — no re-render step needed.
+-->
+<img
+  src="https://github-profile-trophy.vercel.app/?username=adeelnotfound&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=Commits,Stars,Followers,PullRequest,Repositories"
+  alt="GitHub trophies"
+/>
+
+</div>
+
 <!-- ═══════════════════════════ LIVE TELEMETRY ═══════════════════════════ -->
+
+<a id="telemetry"></a>
 
 ## `~/ live_telemetry`
 
@@ -162,6 +209,8 @@ const adeel = {
 
 <!-- ═══════════════════════════ 3D GLOBE ═══════════════════════════ -->
 
+<a id="contrib3d"></a>
+
 ## `~/ contributions.3d`
 
 <div align="center">
@@ -176,6 +225,8 @@ const adeel = {
 </div>
 
 <!-- ═══════════════════════════ THE SNAKE ═══════════════════════════ -->
+
+<a id="snake"></a>
 
 ## `~/ watch_it_eat`
 
@@ -203,6 +254,8 @@ const adeel = {
 </div>
 
 <!-- ═══════════════════════════ SHIPPED ═══════════════════════════ -->
+
+<a id="shipped"></a>
 
 ## `~/ shipped`
 
@@ -251,6 +304,8 @@ const adeel = {
 
 <!-- ═══════════════════════════ ROADMAP ═══════════════════════════ -->
 
+<a id="roadmap"></a>
+
 ## `~/ loading_next`
 
 ```bash
@@ -284,6 +339,8 @@ $ cat ~/roadmap.txt
 </div>
 
 <!-- ═══════════════════════════ TRANSMISSION ═══════════════════════════ -->
+
+<a id="contact"></a>
 
 ## `~/ open_transmission`
 

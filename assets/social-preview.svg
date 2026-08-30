@@ -1,0 +1,49 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="640" fill="#08080D"/>
+<g transform="translate(40.0,105.0)">
+
+<defs>
+  <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(280 160) rotate(25) scale(520 340)">
+    <stop stop-color="#9D7CFF" stop-opacity=".42"/>
+    <stop offset="1" stop-color="#9D7CFF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 330) rotate(-20) scale(500 300)">
+    <stop stop-color="#4DE7FF" stop-opacity=".18"/>
+    <stop offset="1" stop-color="#4DE7FF" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="line" x1="80" y1="60" x2="1100" y2="390" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#9D7CFF"/>
+    <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".72"/>
+    <stop offset="1" stop-color="#4DE7FF"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+
+<rect width="1200" height="430" rx="28" fill="#08080D"/>
+<rect width="1200" height="430" rx="28" fill="url(#g1)"/>
+<rect width="1200" height="430" rx="28" fill="url(#g2)"/>
+
+<g opacity=".20">
+  <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M100 0V430M220 0V430M340 0V430M460 0V430M580 0V430M700 0V430M820 0V430M940 0V430M1060 0V430" stroke="#FFFFFF" stroke-width="1"/>
+</g>
+
+<circle cx="250" cy="165" r="100" fill="#9D7CFF" opacity=".10" filter="url(#blur)"/>
+<circle cx="950" cy="305" r="95" fill="#4DE7FF" opacity=".08" filter="url(#blur)"/>
+
+<path d="M90 340C235 300 245 165 390 180C535 195 570 340 700 305C830 270 875 90 1110 115" stroke="url(#line)" stroke-width="2" opacity=".75"/>
+<path d="M90 342C235 302 245 167 390 182C535 197 570 342 700 307C830 272 875 92 1110 117" stroke="#9D7CFF" stroke-width="8" opacity=".10" filter="url(#blur)"/>
+
+<circle cx="390" cy="180" r="4" fill="#FFFFFF"/>
+<circle cx="700" cy="305" r="4" fill="#FFFFFF"/>
+<circle cx="1110" cy="115" r="4" fill="#4DE7FF"/>
+
+<text x="78" y="105" fill="#777784" font-family="monospace" font-size="15" letter-spacing="4">GITHUB / PROFILE</text>
+<text x="78" y="190" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">Adeel Shaikh</text>
+<text x="82" y="232" fill="#9D7CFF" font-family="monospace" font-size="21" letter-spacing="2">@adeelnotfound</text>
+<text x="82" y="282" fill="#B5B5C2" font-family="Arial, Helvetica, sans-serif" font-size="18">interfaces · intelligent systems · experiments</text>
+
+<text x="1110" y="385" text-anchor="end" fill="#777784" font-family="monospace" font-size="13" letter-spacing="2">BUILD / BREAK / LEARN / REBUILD</text>
+
+</g>
+</svg>
