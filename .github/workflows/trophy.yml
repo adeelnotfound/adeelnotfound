@@ -24,9 +24,9 @@ jobs:
   trophy:
     runs-on: ubuntu-latest
     permissions:
-  contents: write
-  packages: read
-  id-token: write
+      contents: write
+      packages: read
+      id-token: write
 
     steps:
       - uses: actions/checkout@v4
