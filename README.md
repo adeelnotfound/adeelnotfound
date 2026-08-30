@@ -20,9 +20,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F7,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=0D1117&fontAlignY=36&animation=fadeIn&stroke=0D1117&strokeWidth=1&desc=software%20developer%20%C2%B7%20CS%20Student%20%C2%B7%20Learning%20Out%20Loud&descSize=17&descAlignY=56" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F7,25:7B2FFF,60:FF2E97,100:00F0FF&height=260&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=0D1117&fontAlignY=34&animation=fadeIn&stroke=0D1117&strokeWidth=1&desc=software%20developer%20%C2%B7%20CS%20Student%20%C2%B7%20Learning%20Out%20Loud&descSize=17&descAlignY=52" />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FFF,100:FF2E97&height=230&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=00F0FF&fontAlignY=36&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=software%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=56"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:7B2FFF,60:FF2E97,100:00F0FF&height=260&section=header&text=Adeel%20Shaikh&fontSize=54&fontColor=00F0FF&fontAlignY=34&animation=fadeIn&stroke=00F0FF&strokeWidth=1&desc=software%20developer%20%C2%B7%20cs%20student%20%C2%B7%20learning%20out%20loud&descSize=17&descAlignY=52"
     width="100%"
     alt="Adeel Shaikh — Software Developer, CS student"
   />
@@ -43,8 +43,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=adeelnotfound&label=PROFILE%20VIEWS&color=FF2E97&style=for-the-badge&labelColor=0D1117" alt="profile views" />
 <img src="https://img.shields.io/github/followers/adeelnotfound?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github&logoColor=00F0FF" alt="followers" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="status building" />
-<img src="https://img.shields.io/badge/OPEN_TO-COLLABS-FF2E97?style=for-the-badge&labelColor=0D1117" alt="open to collabs" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-7B2FFF?style=for-the-badge&labelColor=0D1117&logo=hackthebox&logoColor=7B2FFF" alt="status building" />
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABS-FF2E97?style=for-the-badge&labelColor=0D1117&logo=probot&logoColor=FF2E97" alt="open to collabs" />
 
 <br/><br/>
 
@@ -57,7 +57,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:7B2FFF,100:00F0FF&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,50:FF2E97,100:00F0FF&height=4&section=header" width="100%" alt="" />
 
 </div>
 
@@ -78,6 +78,8 @@
 **[`open_transmission`](#contact)**
 
 </sub>
+
+<sub>◆ ─────────────────────────── SIGNAL_END // TRANSMISSION_LOOPING ─────────────────────────── ◆</sub>
 
 </div>
 
@@ -113,7 +115,7 @@ const adeel = {
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FFF,100:FF2E97&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,50:FF2E97,100:00F0FF&height=4&section=header" width="100%" alt="" />
 
 </div>
 
@@ -136,7 +138,7 @@ const adeel = {
 </td>
 <td align="center" width="50%">
 
-**`◈ `**
+**`◈ FRONTEND`**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,sass&theme=dark&perline=6" alt="" />
 
@@ -250,7 +252,7 @@ const adeel = {
   />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF2E97,100:7B2FFF&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,50:FF2E97,100:00F0FF&height=4&section=header" width="100%" alt="" />
 
 </div>
 
@@ -299,7 +301,7 @@ const adeel = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:7B2FFF,100:00F0FF&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,50:FF2E97,100:00F0FF&height=4&section=header" width="100%" alt="" />
 
 </div>
 
@@ -335,7 +337,7 @@ $ cat ~/roadmap.txt
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,50:00F0FF,100:FF2E97&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FFF,50:FF2E97,100:00F0FF&height=4&section=header" width="100%" alt="" />
 
 </div>
 
@@ -367,10 +369,9 @@ $ cat ~/roadmap.txt
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7B2FFF,100:0D1117&height=170&section=footer&reversal=true&text=thanks%20for%20scrolling%20this%20far&fontSize=26&fontColor=00F0FF&fontAlignY=68&animation=twinkling&desc=%3C%2F%3E%20with%20too%20much%20coffee%20by%20adeelnotfound&descSize=14&descAlignY=88"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,40:FF2E97,75:7B2FFF,100:0D1117&height=200&section=footer&reversal=true&text=thanks%20for%20scrolling%20this%20far&fontSize=26&fontColor=00F0FF&fontAlignY=62&animation=twinkling&desc=%3C%2F%3E%20with%20too%20much%20coffee%20by%20adeelnotfound&descSize=14&descAlignY=82"
   width="100%"
   alt=""
 />
-
 
 </div>
