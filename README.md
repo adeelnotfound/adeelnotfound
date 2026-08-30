@@ -169,7 +169,7 @@ const adeel = {
   and light up automatically as activity grows — no re-render step needed.
 -->
 <img
-  src="https://github-profile-trophy.vercel.app/?username=adeelnotfound&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=Commits,Stars,Followers,PullRequest,Repositories"
+  src="https://raw.githubusercontent.com/adeelnotfound/adeelnotfound/main/assets/trophy.svg"
   alt="GitHub trophies"
 />
 
