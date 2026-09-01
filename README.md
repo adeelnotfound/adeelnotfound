@@ -188,7 +188,7 @@ const adeel = {
 <a href="https://github.com/adeelnotfound">
   <img
     height="180em"
-    src="https://streak-stats.demolab.com?user=adeelnotfound&hide_border=true&border_radius=12&background=0D1117&stroke=7B2FFF&ring=00F0FF&fire=FF2E97&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E&cache=1788268473"
+    src="https://streak-stats.demolab.com?user=adeelnotfound&hide_border=true&border_radius=12&background=0D1117&stroke=7B2FFF&ring=00F0FF&fire=FF2E97&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E&cache=1788290169"
     alt="contribution streak"
   />
 </a>
