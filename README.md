@@ -41,7 +41,7 @@
 
 <!-- ── LIVE COUNTERS ── -->
 
-<img src="https://komarev.com/ghpvc/?username=adeelnotfound&label=PROFILE%20VIEWS&color=3EB4A0&style=for-the-badge&labelColor=0D1117" alt="profile views" />
+<img src="https://hits.sh/github.com/adeelnotfound.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=3EB4A0&labelColor=0D1117" alt="profile views" />
 <img src="https://img.shields.io/github/followers/adeelnotfound?label=FOLLOWERS&style=for-the-badge&color=3EB4A0&labelColor=0D1117&logo=github&logoColor=EDEBE6" alt="followers" />
 <img src="https://img.shields.io/badge/STATUS-BUILDING-0D1117?style=for-the-badge&labelColor=0D1117&color=3EB4A0" alt="status building" />
 <img src="https://img.shields.io/badge/OPEN_TO-COLLABS-0D1117?style=for-the-badge&labelColor=0D1117&color=3EB4A0" alt="open to collabs" />
@@ -89,7 +89,7 @@
 
 ```typescript
 const adeel = {
-  role      : "Frontend Developer  //  CS Student",
+  role      : "Software Developer  //  CS Student",
   location  : "Pakistan  //  UTC+5",
   focus     : ["react + typescript", "web UI", "clean component design"],
   shipped   : ["Nutrideel — nutrition & macro tracker", "Multilingual-RAG-Chatbot", "Aromatic-Aura", "Linux-Security-System"],
@@ -318,7 +318,7 @@ $ cat ~/roadmap.txt
 <tr><td>
 
 ```
-▰▰▰▰▰▰▰▱▱▱  70%   react / typescript . shipping real UI, still learning
+▰▰▰▰▰▰▰▱▱▱  70%   react / typescript . shipping real UI
 ▰▰▰▱▱▱▱▱▱▱  30%   system design ...... reading + rebuilding
 ▰▰▱▱▱▱▱▱▱▱  20%   backend ............ 
 ▰▱▱▱▱▱▱▱▱▱  10%   whatever's next .... 
