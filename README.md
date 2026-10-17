@@ -186,7 +186,7 @@ const adeel = {
 
 <a href="https://github.com/adeelnotfound">
   <img
-    src="https://streak-stats.demolab.com/?user=adeelnotfound&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3EB4A0&fire=3EB4A0&currStreakLabel=3EB4A0&cache=1792225252"
+    src="https://streak-stats.demolab.com/?user=adeelnotfound&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3EB4A0&fire=3EB4A0&currStreakLabel=3EB4A0&cache=1792249947"
     alt="contribution streak"
   />
 </a>
